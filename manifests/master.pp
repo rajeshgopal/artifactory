@@ -1,3 +1,0 @@
-#install artifactory
-
-include artifactory

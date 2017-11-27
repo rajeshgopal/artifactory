@@ -1,3 +1,4 @@
 forge "https://forgeapi.puppetlabs.com"
 
-mod 'maestrodev/artifactory'
+mod 'puppetlabs/java'
+mod 'maestrodev/wget'
