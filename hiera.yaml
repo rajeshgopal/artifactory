@@ -2,8 +2,6 @@
 :backends:
   - yaml
 :yaml:
-  :datadir: /opt/garage/hieradata
+  :datadir: /opt/artifactory/hieradata
 :hierarchy:
-  - master
-  - slave
   - common
