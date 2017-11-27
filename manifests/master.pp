@@ -1,3 +1,3 @@
-#install jenkins as master
+#install artifactory
 
-include jenkins
+include artifactory
