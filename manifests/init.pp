@@ -9,7 +9,7 @@ wget::fetch { 'artifactory-repo':
   destination => '/etc/yum.repos.d/jfrog-artifactory.repo',
   timeout     => 0,
   verbose     => false,
-  before      => Package['jfrog-artifactory-pro']
+  before      => Package['jfrog-artifactory-oss']
 }
 
 package { 'jfrog-artifactory-oss':
